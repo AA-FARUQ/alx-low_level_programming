@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - C is still currently hard for me
- * Return: 0
+ * main - A program that print 2 line usinig the printf function
+ * Return: 0 (success)
  */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n")
-return (0);
+return (0)
 }
