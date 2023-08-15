@@ -1,5 +1,9 @@
 #include "main.h"
-//This is written by me
+	/**
+	 * main - print _putchar
+	 * created by me
+	 * Return: 0
+	 */
 
 
 	int main(void)
@@ -15,4 +19,3 @@
 	_putchar('\n');
 	return (0);
 	}
-}
